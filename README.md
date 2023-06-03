@@ -26,8 +26,8 @@ The program creates a graphical user interface (GUI) using Tkinter with the foll
 ## Installation
 To use this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/pomodoro-project.git`
-2. Change to the project directory: `cd pomodoro-project`
+1. Clone the repository: `git clone https://github.com/OrCHUK23/pomodoro.git`
+2. Change to the project directory: `cd pomodoro`
 3. Install the required dependencies: `pip install -r requirements.txt`
 4. Run the program: `python main.py`
 
