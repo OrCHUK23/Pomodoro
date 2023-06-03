@@ -6,7 +6,7 @@ It follows the Pomodoro Technique, a time management method that uses a timer to
 ## Features
 * Countdown timer with work and break intervals.
 * Visual indication of the current timer state (work or break).
-*Start and reset buttons.
+* Start and reset buttons.
 * Check marks to track completed intervals.
 
 ## Dependencies
